@@ -7,5 +7,7 @@ Used sources:
 - https://bezkoder.com/node-js-mongodb-auth-jwt/
 
 Instructions:
-- to run, start terminal with "node server.js"
+- clone this repository
+- run "npm install"
+- run "node server.js"
 
